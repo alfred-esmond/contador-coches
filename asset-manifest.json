@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/contador-coches/static/css/main.ae53ed1d.css",
+    "main.js": "/contador-coches/static/js/main.8b038fb4.js",
+    "static/js/453.9dca6d27.chunk.js": "/contador-coches/static/js/453.9dca6d27.chunk.js",
+    "static/media/coche.png": "/contador-coches/static/media/coche.c61079c3bb9453896a86.png",
+    "static/media/redux.cjs": "/contador-coches/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/logo.svg": "/contador-coches/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/contador-coches/index.html",
+    "main.ae53ed1d.css.map": "/contador-coches/static/css/main.ae53ed1d.css.map",
+    "main.8b038fb4.js.map": "/contador-coches/static/js/main.8b038fb4.js.map",
+    "453.9dca6d27.chunk.js.map": "/contador-coches/static/js/453.9dca6d27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae53ed1d.css",
+    "static/js/main.8b038fb4.js"
+  ]
+}
